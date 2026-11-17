@@ -40,7 +40,7 @@ image_key=input_rep
 mkdir -p logs/pass_at_k/${task_name}/v1.1/${dataset_split}
 mkdir -p results/pass_at_k/${task_name}/v1.1/${dataset_split}
 
-### 运行 Pass@k 评估
+### Run Pass@k evaluation
 PYTHONPATH="$(pwd)" \
     python \
     scripts/eval_pass_at_k.py \

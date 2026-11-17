@@ -219,3 +219,4 @@ logs/
 wandb/
 *_PLAN.md
 *.html
+.DS_Store

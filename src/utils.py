@@ -62,7 +62,7 @@ def _get_inchikey(mol: Chem.Mol) -> str | None:
     try:
         inchi = Chem.MolToInchi(mol)
         if inchi:
-            # InChIKey 是 InChI 的哈希，格式为 14-10-1
+            # InChIKey is a hash of InChI, formatted as 14-10-1
             return Chem.InchiToInchiKey(inchi)
         return None
     except Exception:
