@@ -4,6 +4,10 @@
 </h1>
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2611.20848" target="_blank"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2611.20848-b31b1b?logo=arxiv" height="20"></a>
+</p>
+
+<p align="center">
   <a href="https://huggingface.co/datasets/kdeng03/mol-reps-v0.1"><img alt="Dataset: MolReps (src)" src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MolReps%20(src)-ffc107?color=ffc107&logoColor=white" height="20"></a>
   <a href="https://huggingface.co/datasets/kdeng03/mol-rep-ocr-v1.1"><img alt="Dataset: MolReps (OCR)" src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MolReps%20(OCR)-ffc107?color=ffc107&logoColor=white" height="20"></a>
   <a href="https://huggingface.co/datasets/kdeng03/mol-rep-conversion-v1.1"><img alt="Dataset: MolReps (Conversion)" src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MolReps%20(Conversion)-ffc107?color=ffc107&logoColor=white" height="20"></a>
